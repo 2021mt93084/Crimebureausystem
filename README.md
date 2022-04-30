@@ -1,4 +1,4 @@
-# Crimebureausystem
+# Crime Bureau System
 Working on github functionality
 
 Go to project root directory
