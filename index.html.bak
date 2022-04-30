@@ -71,9 +71,6 @@
             <label for="exampleFormControlInput1" class="form-label">FIRDate</label>
             <input type="date" class="form-control" id="firdate" placeholder="Enter FIR date">
 
-			<label for="exampleFormControlInput1" class="form-label">PoliceOfficer</label>
-			<input type="date" class="form-control" id="policeofficer" placeholder="Enter Police officer name">
-
             <br />
             <button onclick="addRecord()" type="button" class="btn btn-success">Add</button>
         </div>
