@@ -28,5 +28,6 @@ Windows Node version managers
 nodist
 nvm-windows
 
-Getting Started with NPM 
-https://docs.npmjs.com/getting-started
+Getting Started with NPM https://docs.npmjs.com/getting-started
+
+For troubleshooting of NPM please refer https://docs.npmjs.com/getting-started/troubleshooting
